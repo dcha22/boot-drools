@@ -24,4 +24,4 @@ Start up the app as Spring Boot Application
 In Postman run this call:
 	http://localhost:8080/getDiscount?type=gold
 	
-	
+Test comment	
